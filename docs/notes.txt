@@ -1,0 +1,17 @@
+Points
+- Visual resemblance
+- Data comparison
+- Costs
+
+
+Tool
+- compare topology of Mars and Moon with Earth's
+- select sites with similar height map
+- crosscheck sites with data including;
+    - soil chemistry
+    - thermal data
+    - topography
+    - environmental extremes
+    - geology
+    - mineralogy
+    - humidity
