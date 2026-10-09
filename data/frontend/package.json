@@ -1,0 +1,1 @@
+{"name":"astroanalog-ai","version":"1.0.0","private":true,"type":"module","scripts":{"dev":"vite --host 0.0.0.0","build":"vite build","preview":"vite preview"},"dependencies":{"vite":"^5.4.0","react":"^18.3.1","react-dom":"^18.3.1","lucide-react":"^0.468.0","leaflet":"^1.9.4","react-leaflet":"^4.2.1"},"devDependencies":{}}
