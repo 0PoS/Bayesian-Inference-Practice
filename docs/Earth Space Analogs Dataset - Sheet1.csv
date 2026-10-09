@@ -1,0 +1,11 @@
+site_id,site_name,country,latitude,longitude,target_body,analog_type,primary_geology,aridity_index,elevation_m,slope_avg_deg,rainfall_mm_yr,temp_delta_c,nearest_airport_name,nearest_airport_iata,dist_to_airport_km,accessibility_rating
+site_001,Atacama Desert (Salar de Atacama),Chile,-23.8634,-69.1328,Mars,Hyper-arid Soil & Evaporites,Salty Regolith & Clay,0.03,2400,2.5,15,22,El Loa Airport,CJC,110,2
+site_002,Haughton Impact Crater,Canada,75.38,-89.68,Mars,Cold Polar Impact Crater,Breccia & Impact Melt,0.15,220,12,60,35,Resolute Bay Airport,YRB,165,5
+site_003,Lanzarote Volcanic Lava Tubes,Spain,29.15,-13.6,Moon,Subterranean Lava Caves,Basaltic Lava,0.25,120,18,150,12,César Manrique-Lanzarote Airport,ACE,30,1
+site_004,Cinder Lake Crater Field,USA,35.3261,-111.5231,Moon,Impact Crater & Regolith,Volcanic Ash & Basalt,0.45,2100,8.5,500,18.5,Flagstaff Pulliam Airport,FLG,25,1
+site_005,Askja Caldera & Highlands,Iceland,65.03,-16.75,Moon,Volcanic Basalt & Ice,Basalt & Sub-surface Ice,0.35,1100,14,450,20,Akureyri Airport,AEY,140,4
+site_006,McMurdo Dry Valleys,Antarctica,-77.4667,162.5,Mars,Hyper-Arid Cold Desert,Frozen Permafrost & Salt,0.01,200,5,10,40,McMurdo Airfield (Phoenix Field),NZPG,15,5
+site_007,Kilauea Lava Fields,USA,19.4069,-155.2833,Moon,Basaltic Regolith,Pahohoe & Aa Lava,0.6,1200,6,1200,10,Hilo International Airport,ITO,45,1
+site_008,Death Valley (Badwater Basin),USA,36.2299,-116.8672,Mars,Arid Salt Pan & Dunes,Evaporites & Sand Dunes,0.05,-86,1.5,60,25,Harry Reid International Airport,LAS,210,2
+site_009,Salar de Uyuni,Bolivia,-20.1338,-67.4891,Mars,Evaporite & Salt Flat,Halite & Lithium Salts,0.1,3656,0.5,180,18,Joya Andina Airport,UYU,45,2
+site_010,Surtsey Island,Iceland,63.303,-20.605,Moon,Submarine Volcanic Basalt,Basaltic Tephra,0.4,155,22,850,11,Vestmannaeyjar Airport,VEY,35,5
