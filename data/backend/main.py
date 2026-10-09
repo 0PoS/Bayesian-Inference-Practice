@@ -60,3 +60,8 @@ def analyze(payload: AnalyzeRequest):
         results.append(site)
     results.sort(key=lambda x:x['score'],reverse=True)
     return {'target':payload.target,'weights':weights,'results':results,'disclaimer':'Illustrative normalized feature values and heuristic scoring. Not validated NASA-derived measurements or suitability predictions.'}
+
+
+import uvicorn
+if __name__ == "__main__":
+    uvicorn.run("main:app", host="127.0.0.1", port=8000, reload=True)
