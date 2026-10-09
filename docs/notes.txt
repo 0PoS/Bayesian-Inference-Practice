@@ -8,10 +8,8 @@ Tool
 - compare topology of Mars and Moon with Earth's
 - select sites with similar height map
 - crosscheck sites with data including;
-    - soil chemistry
-    - thermal data
-    - topography
-    - environmental extremes
-    - geology
-    - mineralogy
-    - humidity
+    - Geology & Composition: analog_type, primary_geology   Topography & Terrain: elevation_m, slope_avg_deg   
+    - Climate & Thermal Extremes: temp_delta_c   
+    - Moisture & Aridity (Humidity Proxy): aridity_index, rainfall_mm_yr   
+    - Location & Target: target_body, latitude, longitude   
+    - Logistics & Accessibility: nearest_airport_name, nearest_airport_iata, dist_to_airport_km, accessibility_rating
